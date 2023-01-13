@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "106359524355",
+    "project_id": "try-then-buy-1bf32",
+    "storage_bucket": "try-then-buy-1bf32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106359524355:android:526b2d4f69bcace3a31236",
+        "android_client_info": {
+          "package_name": "com.trythenbuy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106359524355-1tte29ac42o4k7k5fla45at9igti00pa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trythenbuy.app",
+            "certificate_hash": "93e82020eb04e0cdff3814afda7c0e234942b06e"
+          }
+        },
+        {
+          "client_id": "106359524355-burhiubolsh11htaqnnu09tmtv6nueor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65RvIhZDPp3QVr-6zGbYhKsOXGp6Sy64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106359524355-burhiubolsh11htaqnnu09tmtv6nueor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
